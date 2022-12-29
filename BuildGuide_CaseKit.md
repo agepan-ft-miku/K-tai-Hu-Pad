@@ -1,6 +1,6 @@
 # K-tai-Hu-Pad Case Kit
 
-本項ではケースキットの組立方法を解説します。
+本項ではケースキットの組立方法を解説します。<br>
 <img src="img_casekit/img_kit.jpg" width="500px" />
 
 <br>
