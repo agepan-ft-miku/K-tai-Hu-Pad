@@ -7,14 +7,14 @@
 1. 以下のURLから、Seeed Studio XIAO nRF52840向けのファームウェアをダウンロードします。<br>
     https://circuitpython.org/board/Seeed_XIAO_nRF52840_Sense/
 
-    <img src="img/img01_1.png" width="500px" /> <br>
+    <img src="img/img01_1.PNG" width="500px" /> <br>
 	※動作確認はCircuitPython 7.3.3で実施しました。<br>
  <br>
 
 2. Seeed Studio XIAO nRF52840をPCに接続します。<br>
 接続するとPCにXIAO-SENSEドライブが認識されるので、先ほどダウンロードしたCircuitPythonのファームウェア<br>
 （adafruit-circuitpython-Seeed_XIAO_nRF52840_Sense-ja-7.3.3.uf2）をXIAO-SENSEドライブにコピーします。<br>
-    <img src="img/img02.png" width="500px" /> <br>
+    <img src="img/img02.PNG" width="500px" /> <br>
 <br>
 
 3. Seeed Studio XIAO nRF52840をリセットし、PCにCIRCUITPYドライブが認識されることを確認します。<br>
