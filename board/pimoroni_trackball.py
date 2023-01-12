@@ -118,14 +118,6 @@ class ScrollHandler(TrackballHandler):
         if switch and state:
             keyboard.tap_key(self.press)
 
-        if switch == 1:  # Button pressed
-            pointing_device.button_status[0] |= pointing_device.MB_LMB
-            pointing_device.hid_pending = True
-
-        if not state and trackball.previous_state is True:  # Button released
-            pointing_device.button_status[0] &= ~pointing_device.MB_LMB
-            pointing_device.hid_pending = True
-
         trackball.previous_state = state
 
     def setup_press(self, press):
