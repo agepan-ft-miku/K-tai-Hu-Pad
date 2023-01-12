@@ -23,7 +23,9 @@
 # KMK Firmwareのインストール
 
 1. 以下のURLから、KMK Firmwareをダウンロードします。<br>
-https://github.com/KMKfw/kmk_firmware/archive/refs/heads/master.zip
+https://github.com/agepan-ft-miku/kmk_firmware
+<img src="img/img03.PNG" width="500px" /> <br>
+「Download Zip（図中の矢印部）」を押下してダウンロードします。
 
 2. 以下のURLから、adafruit_bleをダウンロードします。<br>
 https://github.com/adafruit/Adafruit_CircuitPython_BLE
@@ -33,13 +35,12 @@ https://github.com/agepan-ft-miku/K-tai-Hu-Pad/tree/main/board
 
 
 4. 以下のファイルをCIRCUITPYドライブのルートにコピーします。<br>
-・master.zip内のkmkフォルダ<br>
+kmk_firmware-master.zip内のkmkフォルダ<br>
 ・K-tai-Hu-Pad/boardのkb.py<br>
 ・K-tai-Hu-Pad/boardのmain.py<br>
 
 5. CIRCUITPYドライブのルートにlibフォルダを作成し、その中にadafruit_bleフォルダをコピーします。<br>
-
-6. CIRCUITPYドライブ/kmk/modulesフォルダに、K-tai-Hu-Pad/boardのpimoroni_trackball.pyで置き換えます。 <br>
+<br>
 
 以上でファームウェアのインストールは完了です。<br>
 <br>
