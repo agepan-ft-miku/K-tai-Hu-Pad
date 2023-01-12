@@ -24,6 +24,7 @@
 
 1. 以下のURLから、KMK Firmwareをダウンロードします。<br>
 https://github.com/agepan-ft-miku/kmk_firmware
+<br>
 <img src="img/img03.PNG" width="500px" /> <br>
 「Download Zip（図中の矢印部）」を押下してダウンロードします。
 
